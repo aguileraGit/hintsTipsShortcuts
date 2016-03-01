@@ -27,3 +27,6 @@
 * stc - Top solder mask
 * sts - Bottom solder mask
 * drd - Drill file
+
+### Board versioning
+http://semver.org/
