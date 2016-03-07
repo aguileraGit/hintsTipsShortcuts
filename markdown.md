@@ -10,3 +10,5 @@
 To convert to PDF
 [XeLatex](http://www.texts.io/support/0002/)
 * `C:\Users\daguilera\Documents\eagle\v2-hw>pandoc connector.md --latex-engine="C:\Program Files (x86)\MiKTeX 2.9\miktex\bin\xelatex.exe" -o connector.pdf`
+
+Or download markdown-pdf from packages
