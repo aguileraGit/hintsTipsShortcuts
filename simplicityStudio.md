@@ -2,6 +2,7 @@
 * [EEWiki - EFM32 Getting Started](https://eewiki.net/display/microcontroller/Getting+Started+with+EFM32+Giant+Gecko+ARM+Cortex-M3)
 * [App Notes](http://www.silabs.com/products/mcu/Pages/32-bit-mcu-application-notes.aspx)
 * [Documentation](http://devtools.silabs.com/dl/documentation/doxygen/4.2.1/efm32gg/html/index.html)
+* [Setting up UART](http://community.silabs.com/t5/Simplicity-Studio-and-Software/Asynchronous-communication-using-STK3800-Quick-Start/m-p/110247#U110247)
 
 ### Source files
 * In addition to #inlcude "em_Module.h", one must also copy the C file
