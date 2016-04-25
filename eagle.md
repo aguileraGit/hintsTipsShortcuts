@@ -15,7 +15,6 @@
 ### Rip up only polygons
 `rip @;`
 
-
 ### Combine GND and AGND
 * Use shorts-old.lbr
 
@@ -30,3 +29,10 @@
 
 ### Board versioning
 http://semver.org/
+
+### Change Font
+* [Change all font ratio](https://www.element14.com/community/thread/18176/l/how-do-i-change-all-fonts-to-vector-on-the-same-pcb-at-once?displayFullThread=true)
+* change size 0.8 (>0 0)
+
+### Advanced Circuits PCB Specs
+* http://www.4pcb.com/pcb-design-specifications/

@@ -7,3 +7,6 @@
 ### Source files
 * In addition to #inlcude "em_Module.h", one must also copy the C file
 * Location of files: C:\SiliconLabs\SimplicityStudio\v3\developer\sdks\efm32\v2\emlib\src
+
+### Using demo kit as programmer/debugger
+* [EFM32 Starter Kit as Debugger](http://community.silabs.com/t5/Simplicity-Studio-and-Software/Using-an-EFM32-Starter-Kit-as-an-external-debugger/ta-p/138008)
