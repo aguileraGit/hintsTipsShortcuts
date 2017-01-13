@@ -36,3 +36,14 @@ http://semver.org/
 
 ### Advanced Circuits PCB Specs
 * http://www.4pcb.com/pcb-design-specifications/
+
+### User (Diego) created Short cuts
+* `Ctrl + R` - Route
+* `Ctrl + Shift + R` - Rip
+* `Ctrl + M` - Move
+* `Ctrl + V` - Via
+* `Ctrl + W` - Show
+* `Ctrl + L` - Ratsnet
+* `Shift + Ctrl + L` - rip @;
+* `Ctrl + D` - Delete
+* `Ctrl + A` - Split
