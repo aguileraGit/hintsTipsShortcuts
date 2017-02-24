@@ -1,0 +1,4 @@
+#Ignore images and backups in the RPi dir
+/Rpi/*.img
+/Rpi/*.IMG
+/Rpi/*.zip

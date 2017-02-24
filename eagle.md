@@ -47,3 +47,8 @@ http://semver.org/
 * `Shift + Ctrl + L` - rip @;
 * `Ctrl + D` - Delete
 * `Ctrl + A` - Split
+
+Zoom (Window)
+* `Alt+F2` - Window Fit
+* `Alt+F1` - Zoom out
+* `Alt+F3` - Zoom in
