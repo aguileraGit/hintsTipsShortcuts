@@ -12,3 +12,8 @@ http://askubuntu.com/questions/168879/shutdown-from-terminal-without-entering-pa
     - Source Port: 52698
     - Destination: localhost:52698
     - Select Remote
+### Picocom
+-  picocom --imap crcrlf --baud 19200 /dev/ttyUSB2
+
+### Image computer
+http://www.linuxweblog.com/dd-image
