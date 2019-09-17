@@ -52,3 +52,6 @@ Zoom (Window)
 * `Alt+F2` - Window Fit
 * `Alt+F1` - Zoom out
 * `Alt+F3` - Zoom in
+
+### BGA adjustments
+* [BGA Cream and Stop Adjustments](https://electronics.stackexchange.com/questions/349810/how-to-properly-define-bga-footprint-in-eagle)
